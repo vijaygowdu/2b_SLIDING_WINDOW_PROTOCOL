@@ -1,6 +1,4 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## NAME: DHARSHINI K
-## REGISTER NUMBER: 212223220017
 ## AIM 
 To write a python program to perform sliding window protocol
 ## ALGORITHM:
